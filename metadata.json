@@ -1,0 +1,6 @@
+{
+  "name": "India Campus Map",
+  "description": "Interactive college and university discovery platform across India. Explore campuses geographically, compare institutions side-by-side, and explore academic opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
